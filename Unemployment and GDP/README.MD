@@ -1,0 +1,1 @@
+This analysis look into the unemployment of the US economy up until 2010  with an emphasys on the 2008 financial crisis, then will compare the unemployment data with the GDP to see if there is any relantionship
