@@ -1,1 +1,1 @@
-
+This analysis has the objective of constructing an ARIMA model to try and predict the average temperature of the city of New York, although temperature is almost a random walk the aim of this project is more to go through the steps of building an ARIMA model than to forecast precisely the temperature 
